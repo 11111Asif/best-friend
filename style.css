@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+   
 }
 h1{
    
@@ -9,7 +10,7 @@ h1{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px;
+    height: 500px;
     width: 100%;
     color: white;
     text-align: center;
@@ -18,4 +19,18 @@ h1{
     /* font-language-override: initial; */
     font-family: 'Courier New', Courier, monospace;
     
+    
+}
+.cow{
+   background-color: aquamarine;
+}
+.cow h2{
+    font-size: 70px;
+    text-align: center;
+    border-bottom: 2px solid yellow;
+    margin-top: 60px;
+}
+.cow p{
+    font-size: 30px;
+    margin-top: 30px;
 }
