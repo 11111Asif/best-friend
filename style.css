@@ -1,0 +1,10 @@
+h1{
+   
+    background-image: url("cow.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
