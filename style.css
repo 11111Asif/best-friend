@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 h1{
    
     background-image: url("cow.jpg");
@@ -7,4 +11,11 @@ h1{
     background-size: cover;
     height: 600px;
     width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    justify-content: left;
+    /* font-language-override: initial; */
+    font-family: 'Courier New', Courier, monospace;
+    
 }
